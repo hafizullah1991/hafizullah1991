@@ -1,7 +1,5 @@
 ### Hi there 👋, Hi I'm Hafiz Hamdard
 #### Frontend developer who is always lookig to learn and grow.
-![Frontend developer who is always lookig to learn and grow.](https://avatars.githubusercontent.com/u/75444410?s=400&u=4f7dfe8a850a6e32726e026a96cda7cb34277817&v=4)
-
 Specializing in JavaScript, Angular, and MySQL.
 My current interests include expanding my knowledge of Angular and exploring complementary technologies such as TypeScript, API , Dependency Injection, and SQL optimization techniques.
 
